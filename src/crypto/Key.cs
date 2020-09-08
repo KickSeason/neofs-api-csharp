@@ -4,6 +4,7 @@ using System.Linq;
 using System.Numerics;
 using System.Security.Cryptography;
 using Google.Protobuf;
+using DevHawk.Security.Cryptography;
 
 namespace NeoFS.Crypto
 {
